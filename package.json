@@ -1,0 +1,19 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "A basic web server that uses web sockets to interact w/ an angular application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deminie/chat-app.git"
+  },
+  "author": "Kyle Fleskes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deminie/chat-app/issues"
+  },
+  "homepage": "https://github.com/deminie/chat-app#readme"
+}
